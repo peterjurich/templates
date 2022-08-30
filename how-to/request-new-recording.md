@@ -44,38 +44,24 @@ Below are more specific definitions of the fields that must be filled out to req
 | Date and time of the event | Dates and times of all events should be in range form in the following format: YYYYMMDD, HH:MM:SS–YYYYMMDD, HH:MM:SS. All times must be in [Coordinated Universal Time](https://time.is/UTC). |
 | Overview of your research and goals | 1-2 paragraphs that broadly explain your research, what question(s) you are hoping to answer with your findings. If you do not know the  exact date/time of the event in question, please provide a rough estimation. |
 | How does the requested event fit into your research? | 1-2 paragraphs explaining why the requested event is the best way to answer your question(s). |
+| Does the research fill any gaps in the current level of knowledge on this topic? | 1-2 paragraphs explaining whether this research builds on previous research from either yourself or others. If so, where does it fit in? What gaps in our knowledge does it fill? If it does not build on previous research, explain why it is needed. What conversations will it start? |
+| What positive impact will this research have? | 1-2 paragraphs explaining what you anticipate the impact of your work will be. Does it shape our current understanding of previous events? Will it inform how we reacts to future similar events? Share your vision of how this work impacts the future. |
+| Date range for requested access | Please provide us with a date range for when you need the recording. Please note that it usually takes up to six weeks to decide if we can grant you access to Chronologue. |
+| Please explain broadly your research methodology. | 1-2 paragraphs describing the theoretical framework of your research and how that will be used to guide your study along. |
+| What other tools and procedures are you using to analyze your research? | Aside from the Chronologue, list any other tools, procedures, software, etc. you will use to collect/analyze your data. Knowing this helps us make data interoperable. N/A if none. |
+| Do you currently have funding? | If so, list the individuals or organizations through which you are receiving it. This helps ensure there are no conflicts of interest. If you have no funding, enter N/A on this line. |
 
+## Awaiting a decision
 
-<!-- When an image, such as a screenshot, is quicker to interpret than descriptive text, put the screenshot first, otherwise lead with the text. -->
+ The Chronologue committee reviews requests for recordings on a rolling basis, so you can submit your proposal any time. Your patience is appreciated. Filling out your application completely and thoughtfully is the best way to ensure success. If we see great promise in your ambitions, but still have some clarifying questions for you, we will invite you and your team for a short video interview.
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg "Image title that describes image.")
+For a detailed description of the decision process flow, please see (forthcoming doc).
 
-Brief instructions explaining how to interpret the image.
+If, for whatever reason, we do not approve your request, we will provide a detailed summary of why your request was denied and, in particular cases, recommendations moving forward. This does not automatically bar you from submitting again. Instead, we encourage you to read our notes, reflect on your project and determine how you can better shape your proposal for next time.
 
-### Step 2: Optional: title for step - ordered list
+While you are welcome to request again, please wait a minimum of 6 months from your rejection.
 
-Lead-in sentence for an ordered list:
-
-1. Sub-step A
-1. Sub-step B
-1. Sub-step C
-
-### Step 3: Optional: title for step - code snippet
-
-Lead-in sentence explaining the code snippet. For example:
-
-Run the `apt` command to install the Asciidoctor package and check the version.
-
-```bash
-$ sudo apt install asciidoctor
-
-$ asciidoctor --version
-Asciidoctor 1.5.6.2 [https://asciidoctor.org]
-```
-
-### Step 4: Optional: title for step - Conclusion
-
-Provide a summary of the steps completed and explain what the user has achieved by following them. You can also include links to related articles that may help the reader reinforce concepts discussed in this How To article.
+We look forward to your submission!
 
 ## See also
 
