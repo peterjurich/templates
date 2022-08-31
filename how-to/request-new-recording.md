@@ -1,5 +1,3 @@
-<!-- Copy this Template. -->
-<!-- Describe the title of your article by replacing "How To Template" with the page name you want to publish to. -->
 # Request for new recording
 
 ## Overview
@@ -9,7 +7,6 @@ Though the Chronologue is able to help you gather data on virtually infinite pla
 <ins>**APPLY EARLY.**</ins> The Chronologue project receives up to 1000 requests per week, so please allow us 6-8 weeks to make a decision.
 
 **Keywords:** chronologue, request form, review, time travel
-
 
 ## Before you start
 The Chronologue is at present only to be used for scientific research purposes. While we wish we could allow a wider array of uses, the technology is simply too new and not completely understood. To increase your chances of being approved for a recording, you need to meet the following criteria: 
@@ -55,8 +52,6 @@ Below are more specific definitions of the fields that must be filled out to req
 
  The Chronologue committee reviews requests for recordings on a rolling basis, so you can submit your proposal any time. Your patience is appreciated. Filling out your application completely and thoughtfully is the best way to ensure success. If we see great promise in your ambitions, but still have some clarifying questions for you, we will invite you and your team for a short video interview.
 
-For a detailed description of the decision process flow, please see (forthcoming doc).
-
 If, for whatever reason, we do not approve your request, we will provide a detailed summary of why your request was denied and, in particular cases, recommendations moving forward. This does not automatically bar you from submitting again. Instead, we encourage you to read our notes, reflect on your project and determine how you can better shape your proposal for next time.
 
 While you are welcome to request again, please wait a minimum of 6 months from your rejection.
@@ -65,8 +60,4 @@ We look forward to your submission!
 
 ## See also
 
-Include references and/or links to other related documentation, either internal to the project or external.
-After a leading sentence on why/how they are valuable to readers of the current topic, multiple related can be displayed in a list:
-
-* One list for a small number of items, which can contain internal and external references, or;
-* Two lists, divided into internal and external and separated by another leading sentence, if there are a larger number of items.
+For a detailed description of the decision process flow, please see (forthcoming doc).
